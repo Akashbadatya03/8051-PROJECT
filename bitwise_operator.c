@@ -38,7 +38,7 @@ int main(){
     printf("Bitwise: %d \n",d5);
 
     // Bitwise XOR operator:
-    char c6 = a^b;            // Bitwise  4^7 = (00000100)^(00000111)= (00000011)
+    char c6 = a^b;            // Bitwise  4^7 = (00000100)^(00000111)= (00000011).
     printf("Bitwise: %d \n",c6);
 
     return 0;
